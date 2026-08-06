@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Kalimithu K</h1>
+<h1 align="center">Hi 👋, I'm Akash  K</h1>
 <h3 align="center">A passionate 3rd-year AI & ML student, MLOps architect, and algorithmic trading developer.</h3>
 
 <p align="center">
