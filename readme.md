@@ -104,16 +104,16 @@ Ultra high-performance real-time 3D camera calibration simulator with a multi-th
 ## GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AKASH-CODZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-CODZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AKASH-CODZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&count_private=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-CODZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-CODZ&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
+<img src="https://streak-stats.demolab.com/?user=AKASH-CODZ&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-CODZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-CODZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff&cache_seconds=86400" width="95%"/>
 </p>
 
 ---
@@ -129,7 +129,7 @@ Ultra high-performance real-time 3D camera calibration simulator with a multi-th
 ## Trophy Room
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AKASH-CODZ&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AKASH-CODZ&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&cache_seconds=86400"/>
 </p>
 
 ---
