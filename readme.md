@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -53,9 +54,39 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
 ---
 
 ## Featured Projects
+
+<p align="center">
+<a href="https://github.com/AKASH-CODZ/Real-Time-Object-Detection-Tracking-Pipeline">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=Real-Time%20Object%20Detection%20%26%20Tracking&fontSize=18&fontColor=00c6ff&fontAlignY=65"/>
+</a>
+</p>
+
+Production-style video analytics pipeline for live RTSP streams. A multithreaded frame-grabber kills buffer bloat, YOLOv8 + ByteTrack hold persistent object IDs through occlusion, and an active-learning watchdog banks low-confidence frames for retraining — served through Streamlit and benchmarked on mAP@0.5, MOTA, and end-to-end FPS.
+
+`Python` `YOLOv8` `ByteTrack` `OpenCV` `Computer Vision` `⭐ Star`
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/AKASH-CODZ/Voice-Ai">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=EchoSync%20AI&fontSize=22&fontColor=00c6ff&fontAlignY=65"/>
+</a>
+</p>
+
+Real-time, voice-based English practice partner — listens, replies out loud in about a second, and adapts across Casual, Teaching, and Observation (mock-interview) modes. Docker-based backend, **[live at echosync-web.onrender.com](https://echosync-web.onrender.com)**.
+
+`Python` `Speech AI` `Docker` `Real-Time` `⭐ Star`
+
+<br/>
 
 <p align="center">
 <a href="https://github.com/AKASH-CODZ/agridream2528">
@@ -95,7 +126,7 @@ Ultra high-performance real-time 3D camera calibration simulator with a multi-th
 
 <p align="center">
 <a href="https://github.com/AKASH-CODZ?tab=repositories">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=View%20All%207%20Repositories&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=View%20All%20Repositories&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
 </a>
 </p>
 
@@ -121,7 +152,11 @@ Ultra high-performance real-time 3D camera calibration simulator with a multi-th
 ## Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AKASH-CODZ/AKASH-CODZ/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKASH-CODZ/AKASH-CODZ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKASH-CODZ/AKASH-CODZ/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/AKASH-CODZ/AKASH-CODZ/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
 </p>
 
 ---
@@ -139,6 +174,7 @@ Ultra high-performance real-time 3D camera calibration simulator with a multi-th
 <p align="center">
 <a href="https://www.linkedin.com/in/akash-k-8449b828a/"><img src="https://img.shields.io/badge/LinkedIn-Akash%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AKASH-CODZ"><img src="https://img.shields.io/badge/GitHub-AKASH--CODZ-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://huggingface.co/Akash-8"><img src="https://img.shields.io/badge/Hugging%20Face-Akash--8-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 </p>
 
 <p align="center"><sub>📧 akash343k@gmail.com</sub></p>
