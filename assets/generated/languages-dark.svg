@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="0 0 420 250" role="img" aria-label="Languages across my repos">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #00c6ff; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  .v { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+  .row { opacity: 0; animation: rise .6s ease-out forwards; }
+  .bar { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.1s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { to { transform: scaleX(1); } }
+</style>
+<rect x="0.5" y="0.5" rx="10" width="419" height="249" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="24" y="36">Languages across my repos</text>
+<g class="row" style="animation-delay:0.15s"><text class="l" x="24" y="75">Python</text><rect x="130" y="64" width="200" height="12" rx="6" fill="#21262d"/><rect class="bar" style="animation-delay:0.25s" x="130" y="64" width="115.4" height="12" rx="6" fill="#3572A5"/><text class="v" x="396" y="75" text-anchor="end">57.7%</text></g>
+<g class="row" style="animation-delay:0.27s"><text class="l" x="24" y="105">TypeScript</text><rect x="130" y="94" width="200" height="12" rx="6" fill="#21262d"/><rect class="bar" style="animation-delay:0.37s" x="130" y="94" width="72.6" height="12" rx="6" fill="#3178c6"/><text class="v" x="396" y="105" text-anchor="end">36.3%</text></g>
+<g class="row" style="animation-delay:0.39s"><text class="l" x="24" y="135">Java</text><rect x="130" y="124" width="200" height="12" rx="6" fill="#21262d"/><rect class="bar" style="animation-delay:0.49s" x="130" y="124" width="2.4" height="12" rx="6" fill="#b07219"/><text class="v" x="396" y="135" text-anchor="end">1.2%</text></g>
+<g class="row" style="animation-delay:0.51s"><text class="l" x="24" y="165">HTML</text><rect x="130" y="154" width="200" height="12" rx="6" fill="#21262d"/><rect class="bar" style="animation-delay:0.61s" x="130" y="154" width="2.2" height="12" rx="6" fill="#e34c26"/><text class="v" x="396" y="165" text-anchor="end">1.1%</text></g>
+<g class="row" style="animation-delay:0.63s"><text class="l" x="24" y="195">CSS</text><rect x="130" y="184" width="200" height="12" rx="6" fill="#21262d"/><rect class="bar" style="animation-delay:0.73s" x="130" y="184" width="2.0" height="12" rx="6" fill="#663399"/><text class="v" x="396" y="195" text-anchor="end">1.0%</text></g>
+<g class="row" style="animation-delay:0.75s"><text class="l" x="24" y="225">Makefile</text><rect x="130" y="214" width="200" height="12" rx="6" fill="#21262d"/><rect class="bar" style="animation-delay:0.85s" x="130" y="214" width="2.0" height="12" rx="6" fill="#427819"/><text class="v" x="396" y="225" text-anchor="end">0.7%</text></g>
+</svg>

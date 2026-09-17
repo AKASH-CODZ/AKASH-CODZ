@@ -1,0 +1,44 @@
+name: profile cards
+
+# Rebuilds the animated stats / languages cards and the "recently pushed" list in readme.md.
+# Replaces the github-readme-stats and trophy widgets, whose public servers are down.
+
+on:
+  schedule:
+    - cron: "41 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/**", ".github/workflows/profile-cards.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Test the generator
+        working-directory: .github/scripts
+        run: python3 -m unittest -v test_profile_cards
+
+      - name: Build cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/profile_cards.py --user "${{ github.repository_owner }}" --out assets/generated --readme readme.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated readme.md
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile cards"
+          git pull --rebase origin main
+          git push origin HEAD:main

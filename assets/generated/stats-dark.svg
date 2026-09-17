@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="184" viewBox="0 0 320 184" role="img" aria-label="GitHub at a glance">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #00c6ff; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  .v { font: 700 15px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+  .row { opacity: 0; animation: rise .6s ease-out forwards; }
+  .bar { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.1s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { to { transform: scaleX(1); } }
+</style>
+<rect x="0.5" y="0.5" rx="10" width="319" height="183" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="24" y="36">GitHub at a glance</text>
+<g class="row" style="animation-delay:0.15s"><text class="l" x="24" y="72">Public repositories</text><text class="v" x="300" y="72" text-anchor="end">9</text></g>
+<g class="row" style="animation-delay:0.30s"><text class="l" x="24" y="100">Stars earned</text><text class="v" x="300" y="100" text-anchor="end">1</text></g>
+<g class="row" style="animation-delay:0.45s"><text class="l" x="24" y="128">Contributions, last 12 months</text><text class="v" x="300" y="128" text-anchor="end">56</text></g>
+<g class="row" style="animation-delay:0.60s"><text class="l" x="24" y="156">Most used language</text><text class="v" x="300" y="156" text-anchor="end">Python</text></g>
+</svg>

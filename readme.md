@@ -1,188 +1,48 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=200&section=header&text=Akash%20K&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20-%20ML%20and%20Full-Stack%20Builder&descAlignY=58&descSize=17" width="100%"/>
+  <img src="assets/generated/stats-dark.svg#gh-dark-mode-only" alt="">
+  <img src="assets/generated/stats-light.svg#gh-light-mode-only" alt="">
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Akash+%F0%9F%91%8B;Data+Science+Student;Building+ML+%2B+Full-Stack+Projects;Welcome+to+my+GitHub+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=22&pause=1200&duration=3000"/>
-</p>
+<h1 align="center">Akash K</h1>
+<p align="center">Data science student building real-time ML systems: voice agents, video analytics, and shipped web products.</p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/AKASH-CODZ?label=Followers&style=for-the-badge&color=161b22&labelColor=00c6ff"/>
-<img src="https://komarev.com/ghpvc/?username=AKASH-CODZ&style=for-the-badge&color=161b22&label=Profile+Views"/>
-<img src="https://img.shields.io/badge/Achievement-Pull%20Shark-161b22?style=for-the-badge&logo=github&logoColor=00c6ff"/>
-</p>
-
-<br/>
-
-## About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-- Currently a **Data Science Student**, focused on Python, ML, and data pipelines
-- I build things end-to-end, from a trained model to a deployed, working product
-- Shipped a live production platform: **[fashionnights.in](https://www.fashionnights.in/)**, a serverless CRM and landing experience
-- Exploring computer vision, camera calibration, and simulation-driven engineering
-- Interested in agri-tech and applied ML, see **AgriDream** below
-- GitHub **Pull Shark** achiever
-
-<br clear="right"/>
-
----
-
-## Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/akash-k-8449b828a/">LinkedIn</a> ·
+  <a href="https://huggingface.co/Akash-8">Hugging Face</a> ·
+  <a href="mailto:akash343k@gmail.com">akash343k@gmail.com</a>
 </p>
 
 ---
 
-## Featured Projects
+## Projects
+
+| | |
+|---|---|
+| **[EchoSync AI](https://github.com/AKASH-CODZ/Voice-Ai)** — voice-based English practice partner. Casual, Teaching and mock-interview modes; about 530ms to first reply on a gaming laptop. [Live demo](https://echosync-web.onrender.com) | **[Real-time object detection & tracking](https://github.com/AKASH-CODZ/Real-Time-Object-Detection-Tracking-Pipeline)** — YOLOv8 + ByteTrack on live RTSP video, with an active-learning watchdog that banks low-confidence frames for retraining |
+| **[Fashion Nights](https://github.com/AKASH-CODZ/Serverless-crm-landing-)** — serverless CRM and landing site live at [fashionnights.in](https://www.fashionnights.in/); React/TypeScript frontend, Vercel functions | **[Synthetic Vision Calibrator](https://github.com/AKASH-CODZ/synthetic-vision-calibrator)** — real-time 3D camera calibration simulator, visualizes how OpenCV recovers a camera's intrinsic matrix from a moving checkerboard |
+| **[AgriDream](https://github.com/AKASH-CODZ/agridream2528)** — crop recommendation from soil/weather readings, paired with real mandi (market) price data | |
+
+## Tech I use
+
+<p align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,opencv,pytorch,docker,vercel,tailwind,linux&perline=12" alt="Python, TypeScript, JavaScript, React, Next.js, FastAPI, OpenCV, PyTorch, Docker, Vercel, Tailwind CSS, Linux"></p>
+
+## Recently pushed
+<!-- recent:start -->
+<!-- recent:end -->
+<sub>Kept current by [profile-cards.yml](.github/workflows/profile-cards.yml).</sub>
+
+## Languages across my repos
 
 <p align="center">
-<a href="https://github.com/AKASH-CODZ/Real-Time-Object-Detection-Tracking-Pipeline">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=Real-Time%20Object%20Detection%20%26%20Tracking&fontSize=18&fontColor=00c6ff&fontAlignY=65"/>
-</a>
+  <img src="assets/generated/languages-dark.svg#gh-dark-mode-only" alt="">
+  <img src="assets/generated/languages-light.svg#gh-light-mode-only" alt="">
 </p>
 
-Production-style video analytics pipeline for live RTSP streams. A multithreaded frame-grabber kills buffer bloat, YOLOv8 + ByteTrack hold persistent object IDs through occlusion, and an active-learning watchdog banks low-confidence frames for retraining — served through Streamlit and benchmarked on mAP@0.5, MOTA, and end-to-end FPS.
+## Contribution graph
 
-`Python` `YOLOv8` `ByteTrack` `OpenCV` `Computer Vision` `⭐ Star`
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/AKASH-CODZ/Voice-Ai">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=EchoSync%20AI&fontSize=22&fontColor=00c6ff&fontAlignY=65"/>
-</a>
-</p>
-
-Real-time, voice-based English practice partner — listens, replies out loud in about a second, and adapts across Casual, Teaching, and Observation (mock-interview) modes. Docker-based backend, **[live at echosync-web.onrender.com](https://echosync-web.onrender.com)**.
-
-`Python` `Speech AI` `Docker` `Real-Time` `⭐ Star`
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/AKASH-CODZ/agridream2528">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=AgriDream&fontSize=22&fontColor=00c6ff&fontAlignY=65"/>
-</a>
-</p>
-
-Machine learning crop recommendation engine that pairs a trained model with a live agricultural price API, helping farmers make data-backed planting decisions.
-
-`Python` `Machine Learning` `Data Pipeline`
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/AKASH-CODZ/Serverless-crm-landing-">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=Fashion%20Nights%20-%20Serverless%20CRM&fontSize=20&fontColor=00c6ff&fontAlignY=65"/>
-</a>
-</p>
-
-Live, production-deployed platform at **[fashionnights.in](https://www.fashionnights.in/)** connecting fashion talent, brands, and community. React + TypeScript frontend, serverless Vercel backend, Google Sheets as a live CMS, automated email workflows.
-
-`React` `TypeScript` `Vercel` `Serverless` `⭐ Star`
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/AKASH-CODZ/synthetic-vision-calibrator">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=Synthetic%20Vision%20Calibrator&fontSize=20&fontColor=00c6ff&fontAlignY=65"/>
-</a>
-</p>
-
-Ultra high-performance real-time 3D camera calibration simulator with a multi-threaded 60 FPS precompute engine, true 3D rigid-body projection math, and a live cyber-HUD telemetry dashboard, built on OpenCV.
-
-`Python` `OpenCV` `Computer Vision` `Simulation` `⭐ Star`
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/AKASH-CODZ?tab=repositories">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=161b22&height=55&section=header&text=View%20All%20Repositories&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
-</a>
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AKASH-CODZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&count_private=true&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-CODZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9&cache_seconds=86400"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=AKASH-CODZ&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-CODZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff&cache_seconds=86400" width="95%"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKASH-CODZ/AKASH-CODZ/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKASH-CODZ/AKASH-CODZ/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/AKASH-CODZ/AKASH-CODZ/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/snake-dark.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="assets/generated/snake-light.svg" width="100%"/>
 </picture>
-</p>
 
----
-
-## Trophy Room
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AKASH-CODZ&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&cache_seconds=86400"/>
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/akash-k-8449b828a/"><img src="https://img.shields.io/badge/LinkedIn-Akash%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AKASH-CODZ"><img src="https://img.shields.io/badge/GitHub-AKASH--CODZ-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://huggingface.co/Akash-8"><img src="https://img.shields.io/badge/Hugging%20Face-Akash--8-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-</p>
-
-<p align="center"><sub>📧 akash343k@gmail.com</sub></p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Star+a+repo+if+you+liked+something+%E2%AD%90;See+you+in+the+next+commit+%F0%9F%9A%80&font=Fira+Code&center=true&width=550&height=35&color=00C6FF&vCenter=true&size=16&pause=1500&duration=2500"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+<sub>The two cards above and the snake are generated by [GitHub Actions](.github/workflows/) straight from the GitHub API, so they don't depend on third-party card services. `github-readme-stats` and the trophy widget I used to have here were pulled off: their public server has been down since <a href="https://github.com/anuraghazra/github-readme-stats/issues/4737">anuraghazra/github-readme-stats#4737</a>.</sub>
