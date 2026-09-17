@@ -1,7 +1,10 @@
 name: snake
 
-# Redraws the contribution-graph snake. Output is committed to assets/generated/
-# on main (no separate branch, no force pushes). Actions are pinned to commit SHAs.
+# Redraws the contribution-graph snake using our own .github/scripts/snake.py,
+# not the third-party Platane/snk action: this repo's Actions settings only allow
+# GitHub-owned actions (see docs/readme-flags.md), so a third-party action fails
+# with startup_failure before it ever runs a step. Output is committed to
+# assets/generated/ on main — no separate branch, no force pushes.
 
 on:
   schedule:
@@ -9,7 +12,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/snake.yml"]
+    paths: [".github/workflows/snake.yml", ".github/scripts/snake.py"]
 
 permissions:
   contents: write
@@ -24,12 +27,14 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/generated/snake-light.svg
-            assets/generated/snake-dark.svg?palette=github-dark&color_snake=#00c6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+      - name: Test the generator
+        working-directory: .github/scripts
+        run: python3 -m unittest -v test_snake
+
+      - name: Draw the snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/snake.py --user "${{ github.repository_owner }}" --out assets/generated
 
       - name: Commit if changed
         run: |
