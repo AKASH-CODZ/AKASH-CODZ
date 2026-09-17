@@ -392,7 +392,7 @@
 <rect id="cell-52-2" class="cell" x="731" y="31" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:6.780s"/>
 <rect id="cell-52-3" class="cell" x="731" y="45" width="11" height="11" rx="2" fill="#9be9a8" style="animation-delay:6.797s"/>
 <rect class="bite" x="729.5" y="43.5" width="14" height="14" rx="3" fill="none" stroke="#0969da" stroke-width="2" style="animation-delay:6.797s"/>
-<rect id="cell-52-4" class="cell" x="731" y="59" width="11" height="11" rx="2" fill="#30a14e" style="animation-delay:6.815s"/>
+<rect id="cell-52-4" class="cell" x="731" y="59" width="11" height="11" rx="2" fill="#216e39" style="animation-delay:6.815s"/>
 <rect class="bite" x="729.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#0969da" stroke-width="2" style="animation-delay:6.815s"/>
 <rect id="cell-52-5" class="cell" x="731" y="73" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:6.832s"/>
 <rect id="cell-52-6" class="cell" x="731" y="87" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:6.850s"/>
