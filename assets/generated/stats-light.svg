@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="184" viewBox="0 0 320 184" role="img" aria-label="GitHub at a glance">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" viewBox="0 0 360 250" role="img" aria-label="GitHub at a glance">
 <style>
   .t { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #0969da; }
   .l { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #656d76; }
@@ -8,10 +8,10 @@
   @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
   @keyframes grow { to { transform: scaleX(1); } }
 </style>
-<rect x="0.5" y="0.5" rx="10" width="319" height="183" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" rx="10" width="359" height="249" fill="#ffffff" stroke="#d0d7de"/>
 <text class="t" x="24" y="36">GitHub at a glance</text>
-<g class="row" style="animation-delay:0.15s"><text class="l" x="24" y="72">Public repositories</text><text class="v" x="300" y="72" text-anchor="end">9</text></g>
-<g class="row" style="animation-delay:0.30s"><text class="l" x="24" y="100">Stars earned</text><text class="v" x="300" y="100" text-anchor="end">1</text></g>
-<g class="row" style="animation-delay:0.45s"><text class="l" x="24" y="128">Contributions, last 12 months</text><text class="v" x="300" y="128" text-anchor="end">56</text></g>
-<g class="row" style="animation-delay:0.60s"><text class="l" x="24" y="156">Most used language</text><text class="v" x="300" y="156" text-anchor="end">Python</text></g>
+<g class="row" style="animation-delay:0.15s"><text class="l" x="24" y="80">Public repositories</text><text class="v" x="336" y="80" text-anchor="end">9</text></g>
+<g class="row" style="animation-delay:0.30s"><text class="l" x="24" y="122">Stars earned</text><text class="v" x="336" y="122" text-anchor="end">1</text></g>
+<g class="row" style="animation-delay:0.45s"><text class="l" x="24" y="164">Contributions, last 12 months</text><text class="v" x="336" y="164" text-anchor="end">57</text></g>
+<g class="row" style="animation-delay:0.60s"><text class="l" x="24" y="206">Most used language</text><text class="v" x="336" y="206" text-anchor="end">Python</text></g>
 </svg>

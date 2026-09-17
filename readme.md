@@ -28,6 +28,11 @@
 
 ## Recently pushed
 <!-- recent:start -->
+- [AKASH-CODZ](https://github.com/AKASH-CODZ/AKASH-CODZ) <sub>2026-09-17</sub>
+- [Real-Time-Object-Detection-Tracking-Pipeline](https://github.com/AKASH-CODZ/Real-Time-Object-Detection-Tracking-Pipeline) <sub>2026-09-12</sub>
+- [Voice-Ai](https://github.com/AKASH-CODZ/Voice-Ai) <sub>2026-09-07</sub>
+- [Project55](https://github.com/AKASH-CODZ/Project55) <sub>2026-07-27</sub>
+- [Develop_](https://github.com/AKASH-CODZ/Develop_) <sub>2026-07-14</sub>
 <!-- recent:end -->
 <sub>Kept current by [profile-cards.yml](.github/workflows/profile-cards.yml).</sub>
 
