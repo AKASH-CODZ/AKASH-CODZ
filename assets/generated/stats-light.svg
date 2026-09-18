@@ -12,6 +12,6 @@
 <text class="t" x="24" y="36">GitHub at a glance</text>
 <g class="row" style="animation-delay:0.15s"><text class="l" x="24" y="80">Public repositories</text><text class="v" x="336" y="80" text-anchor="end">9</text></g>
 <g class="row" style="animation-delay:0.30s"><text class="l" x="24" y="122">Stars earned</text><text class="v" x="336" y="122" text-anchor="end">1</text></g>
-<g class="row" style="animation-delay:0.45s"><text class="l" x="24" y="164">Contributions, last 12 months</text><text class="v" x="336" y="164" text-anchor="end">65</text></g>
+<g class="row" style="animation-delay:0.45s"><text class="l" x="24" y="164">Contributions, last 12 months</text><text class="v" x="336" y="164" text-anchor="end">66</text></g>
 <g class="row" style="animation-delay:0.60s"><text class="l" x="24" y="206">Most used language</text><text class="v" x="336" y="206" text-anchor="end">Python</text></g>
 </svg>
