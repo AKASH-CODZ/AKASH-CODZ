@@ -10,13 +10,13 @@
 <rect id="cell-0-1" class="cell" x="3" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.368s"/>
 <rect id="cell-0-2" class="cell" x="3" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.385s"/>
 <rect id="cell-0-3" class="cell" x="3" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.403s"/>
-<rect id="cell-0-4" class="cell" x="3" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.420s"/>
+<rect id="cell-0-4" class="cell" x="3" y="59" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:0.420s"/>
+<rect class="bite" x="1.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:0.420s"/>
 <rect id="cell-0-5" class="cell" x="3" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.438s"/>
 <rect id="cell-0-6" class="cell" x="3" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.455s"/>
 <rect id="cell-1-6" class="cell" x="17" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.473s"/>
 <rect id="cell-1-5" class="cell" x="17" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.491s"/>
-<rect id="cell-1-4" class="cell" x="17" y="59" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:0.508s"/>
-<rect class="bite" x="15.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:0.508s"/>
+<rect id="cell-1-4" class="cell" x="17" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.508s"/>
 <rect id="cell-1-3" class="cell" x="17" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.526s"/>
 <rect id="cell-1-2" class="cell" x="17" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.543s"/>
 <rect id="cell-1-1" class="cell" x="17" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.561s"/>
@@ -137,14 +137,15 @@
 <rect id="cell-18-1" class="cell" x="255" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.581s"/>
 <rect id="cell-18-2" class="cell" x="255" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.599s"/>
 <rect id="cell-18-3" class="cell" x="255" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.616s"/>
-<rect id="cell-18-4" class="cell" x="255" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.634s"/>
-<rect id="cell-18-5" class="cell" x="255" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.651s"/>
+<rect id="cell-18-4" class="cell" x="255" y="59" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:2.634s"/>
+<rect class="bite" x="253.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:2.634s"/>
+<rect id="cell-18-5" class="cell" x="255" y="73" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:2.651s"/>
+<rect class="bite" x="253.5" y="71.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:2.651s"/>
 <rect id="cell-18-6" class="cell" x="255" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.669s"/>
-<rect id="cell-19-6" class="cell" x="269" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.686s"/>
-<rect id="cell-19-5" class="cell" x="269" y="73" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:2.704s"/>
-<rect class="bite" x="267.5" y="71.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:2.704s"/>
-<rect id="cell-19-4" class="cell" x="269" y="59" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:2.722s"/>
-<rect class="bite" x="267.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:2.722s"/>
+<rect id="cell-19-6" class="cell" x="269" y="87" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:2.686s"/>
+<rect class="bite" x="267.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:2.686s"/>
+<rect id="cell-19-5" class="cell" x="269" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.704s"/>
+<rect id="cell-19-4" class="cell" x="269" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.722s"/>
 <rect id="cell-19-3" class="cell" x="269" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.739s"/>
 <rect id="cell-19-2" class="cell" x="269" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.757s"/>
 <rect id="cell-19-1" class="cell" x="269" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.774s"/>
@@ -157,8 +158,7 @@
 <rect id="cell-20-5" class="cell" x="283" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.897s"/>
 <rect id="cell-20-6" class="cell" x="283" y="87" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:2.915s"/>
 <rect class="bite" x="281.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:2.915s"/>
-<rect id="cell-21-6" class="cell" x="297" y="87" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:2.932s"/>
-<rect class="bite" x="295.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:2.932s"/>
+<rect id="cell-21-6" class="cell" x="297" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.932s"/>
 <rect id="cell-21-5" class="cell" x="297" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.950s"/>
 <rect id="cell-21-4" class="cell" x="297" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.968s"/>
 <rect id="cell-21-3" class="cell" x="297" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:2.985s"/>
@@ -175,15 +175,17 @@
 <rect id="cell-23-6" class="cell" x="325" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.178s"/>
 <rect id="cell-23-5" class="cell" x="325" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.196s"/>
 <rect id="cell-23-4" class="cell" x="325" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.214s"/>
-<rect id="cell-23-3" class="cell" x="325" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.231s"/>
+<rect id="cell-23-3" class="cell" x="325" y="45" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.231s"/>
+<rect class="bite" x="323.5" y="43.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.231s"/>
 <rect id="cell-23-2" class="cell" x="325" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.249s"/>
 <rect id="cell-23-1" class="cell" x="325" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.266s"/>
 <rect id="cell-23-0" class="cell" x="325" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.284s"/>
-<rect id="cell-24-0" class="cell" x="339" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.301s"/>
+<rect id="cell-24-0" class="cell" x="339" y="3" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:3.301s"/>
+<rect class="bite" x="337.5" y="1.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.301s"/>
 <rect id="cell-24-1" class="cell" x="339" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.319s"/>
-<rect id="cell-24-2" class="cell" x="339" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.336s"/>
-<rect id="cell-24-3" class="cell" x="339" y="45" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.354s"/>
-<rect class="bite" x="337.5" y="43.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.354s"/>
+<rect id="cell-24-2" class="cell" x="339" y="31" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.336s"/>
+<rect class="bite" x="337.5" y="29.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.336s"/>
+<rect id="cell-24-3" class="cell" x="339" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.354s"/>
 <rect id="cell-24-4" class="cell" x="339" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.372s"/>
 <rect id="cell-24-5" class="cell" x="339" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.389s"/>
 <rect id="cell-24-6" class="cell" x="339" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.407s"/>
@@ -191,11 +193,9 @@
 <rect id="cell-25-5" class="cell" x="353" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.442s"/>
 <rect id="cell-25-4" class="cell" x="353" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.459s"/>
 <rect id="cell-25-3" class="cell" x="353" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.477s"/>
-<rect id="cell-25-2" class="cell" x="353" y="31" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:3.495s"/>
-<rect class="bite" x="351.5" y="29.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.495s"/>
+<rect id="cell-25-2" class="cell" x="353" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.495s"/>
 <rect id="cell-25-1" class="cell" x="353" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.512s"/>
-<rect id="cell-25-0" class="cell" x="353" y="3" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:3.530s"/>
-<rect class="bite" x="351.5" y="1.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.530s"/>
+<rect id="cell-25-0" class="cell" x="353" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.530s"/>
 <rect id="cell-26-0" class="cell" x="367" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.547s"/>
 <rect id="cell-26-1" class="cell" x="367" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.565s"/>
 <rect id="cell-26-2" class="cell" x="367" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.582s"/>
@@ -216,9 +216,9 @@
 <rect id="cell-28-3" class="cell" x="395" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.846s"/>
 <rect id="cell-28-4" class="cell" x="395" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.864s"/>
 <rect id="cell-28-5" class="cell" x="395" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.881s"/>
-<rect id="cell-28-6" class="cell" x="395" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.899s"/>
-<rect id="cell-29-6" class="cell" x="409" y="87" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:3.916s"/>
-<rect class="bite" x="407.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.916s"/>
+<rect id="cell-28-6" class="cell" x="395" y="87" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:3.899s"/>
+<rect class="bite" x="393.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:3.899s"/>
+<rect id="cell-29-6" class="cell" x="409" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.916s"/>
 <rect id="cell-29-5" class="cell" x="409" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.934s"/>
 <rect id="cell-29-4" class="cell" x="409" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.951s"/>
 <rect id="cell-29-3" class="cell" x="409" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:3.969s"/>
@@ -311,7 +311,8 @@
 <rect id="cell-41-0" class="cell" x="577" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.497s"/>
 <rect id="cell-42-0" class="cell" x="591" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.515s"/>
 <rect id="cell-42-1" class="cell" x="591" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.532s"/>
-<rect id="cell-42-2" class="cell" x="591" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.550s"/>
+<rect id="cell-42-2" class="cell" x="591" y="31" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:5.550s"/>
+<rect class="bite" x="589.5" y="29.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:5.550s"/>
 <rect id="cell-42-3" class="cell" x="591" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.568s"/>
 <rect id="cell-42-4" class="cell" x="591" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.585s"/>
 <rect id="cell-42-5" class="cell" x="591" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.603s"/>
@@ -320,33 +321,32 @@
 <rect id="cell-43-5" class="cell" x="605" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.655s"/>
 <rect id="cell-43-4" class="cell" x="605" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.673s"/>
 <rect id="cell-43-3" class="cell" x="605" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.691s"/>
-<rect id="cell-43-2" class="cell" x="605" y="31" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:5.708s"/>
-<rect class="bite" x="603.5" y="29.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:5.708s"/>
+<rect id="cell-43-2" class="cell" x="605" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.708s"/>
 <rect id="cell-43-1" class="cell" x="605" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.726s"/>
 <rect id="cell-43-0" class="cell" x="605" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.743s"/>
 <rect id="cell-44-0" class="cell" x="619" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.761s"/>
-<rect id="cell-44-1" class="cell" x="619" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.778s"/>
+<rect id="cell-44-1" class="cell" x="619" y="17" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:5.778s"/>
+<rect class="bite" x="617.5" y="15.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:5.778s"/>
 <rect id="cell-44-2" class="cell" x="619" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.796s"/>
 <rect id="cell-44-3" class="cell" x="619" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.814s"/>
 <rect id="cell-44-4" class="cell" x="619" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.831s"/>
 <rect id="cell-44-5" class="cell" x="619" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.849s"/>
 <rect id="cell-44-6" class="cell" x="619" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.866s"/>
 <rect id="cell-45-6" class="cell" x="633" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.884s"/>
-<rect id="cell-45-5" class="cell" x="633" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.901s"/>
-<rect id="cell-45-4" class="cell" x="633" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.919s"/>
+<rect id="cell-45-5" class="cell" x="633" y="73" width="11" height="11" rx="2" fill="#26a641" style="animation-delay:5.901s"/>
+<rect class="bite" x="631.5" y="71.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:5.901s"/>
+<rect id="cell-45-4" class="cell" x="633" y="59" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:5.919s"/>
+<rect class="bite" x="631.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:5.919s"/>
 <rect id="cell-45-3" class="cell" x="633" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.936s"/>
 <rect id="cell-45-2" class="cell" x="633" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.954s"/>
-<rect id="cell-45-1" class="cell" x="633" y="17" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:5.972s"/>
-<rect class="bite" x="631.5" y="15.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:5.972s"/>
+<rect id="cell-45-1" class="cell" x="633" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.972s"/>
 <rect id="cell-45-0" class="cell" x="633" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:5.989s"/>
 <rect id="cell-46-0" class="cell" x="647" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.007s"/>
 <rect id="cell-46-1" class="cell" x="647" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.024s"/>
 <rect id="cell-46-2" class="cell" x="647" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.042s"/>
 <rect id="cell-46-3" class="cell" x="647" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.059s"/>
-<rect id="cell-46-4" class="cell" x="647" y="59" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.077s"/>
-<rect class="bite" x="645.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.077s"/>
-<rect id="cell-46-5" class="cell" x="647" y="73" width="11" height="11" rx="2" fill="#26a641" style="animation-delay:6.095s"/>
-<rect class="bite" x="645.5" y="71.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.095s"/>
+<rect id="cell-46-4" class="cell" x="647" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.077s"/>
+<rect id="cell-46-5" class="cell" x="647" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.095s"/>
 <rect id="cell-46-6" class="cell" x="647" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.112s"/>
 <rect id="cell-47-6" class="cell" x="661" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.130s"/>
 <rect id="cell-47-5" class="cell" x="661" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.147s"/>
@@ -362,38 +362,38 @@
 <rect id="cell-48-4" class="cell" x="675" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.323s"/>
 <rect id="cell-48-5" class="cell" x="675" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.341s"/>
 <rect id="cell-48-6" class="cell" x="675" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.358s"/>
-<rect id="cell-49-6" class="cell" x="689" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.376s"/>
+<rect id="cell-49-6" class="cell" x="689" y="87" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.376s"/>
+<rect class="bite" x="687.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.376s"/>
 <rect id="cell-49-5" class="cell" x="689" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.393s"/>
 <rect id="cell-49-4" class="cell" x="689" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.411s"/>
 <rect id="cell-49-3" class="cell" x="689" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.428s"/>
 <rect id="cell-49-2" class="cell" x="689" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.446s"/>
 <rect id="cell-49-1" class="cell" x="689" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.464s"/>
 <rect id="cell-49-0" class="cell" x="689" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.481s"/>
-<rect id="cell-50-0" class="cell" x="703" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.499s"/>
-<rect id="cell-50-1" class="cell" x="703" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.516s"/>
+<rect id="cell-50-0" class="cell" x="703" y="3" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.499s"/>
+<rect class="bite" x="701.5" y="1.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.499s"/>
+<rect id="cell-50-1" class="cell" x="703" y="17" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:6.516s"/>
+<rect class="bite" x="701.5" y="15.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.516s"/>
 <rect id="cell-50-2" class="cell" x="703" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.534s"/>
 <rect id="cell-50-3" class="cell" x="703" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.551s"/>
 <rect id="cell-50-4" class="cell" x="703" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.569s"/>
 <rect id="cell-50-5" class="cell" x="703" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.586s"/>
 <rect id="cell-50-6" class="cell" x="703" y="87" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.604s"/>
 <rect class="bite" x="701.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.604s"/>
-<rect id="cell-51-6" class="cell" x="717" y="87" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.622s"/>
-<rect class="bite" x="715.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.622s"/>
+<rect id="cell-51-6" class="cell" x="717" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.622s"/>
 <rect id="cell-51-5" class="cell" x="717" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.639s"/>
-<rect id="cell-51-4" class="cell" x="717" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.657s"/>
-<rect id="cell-51-3" class="cell" x="717" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.674s"/>
+<rect id="cell-51-4" class="cell" x="717" y="59" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:6.657s"/>
+<rect class="bite" x="715.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.657s"/>
+<rect id="cell-51-3" class="cell" x="717" y="45" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.674s"/>
+<rect class="bite" x="715.5" y="43.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.674s"/>
 <rect id="cell-51-2" class="cell" x="717" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.692s"/>
-<rect id="cell-51-1" class="cell" x="717" y="17" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:6.709s"/>
-<rect class="bite" x="715.5" y="15.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.709s"/>
-<rect id="cell-51-0" class="cell" x="717" y="3" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.727s"/>
-<rect class="bite" x="715.5" y="1.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.727s"/>
+<rect id="cell-51-1" class="cell" x="717" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.709s"/>
+<rect id="cell-51-0" class="cell" x="717" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.727s"/>
 <rect id="cell-52-0" class="cell" x="731" y="3" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.745s"/>
 <rect id="cell-52-1" class="cell" x="731" y="17" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.762s"/>
 <rect id="cell-52-2" class="cell" x="731" y="31" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.780s"/>
-<rect id="cell-52-3" class="cell" x="731" y="45" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:6.797s"/>
-<rect class="bite" x="729.5" y="43.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.797s"/>
-<rect id="cell-52-4" class="cell" x="731" y="59" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:6.815s"/>
-<rect class="bite" x="729.5" y="57.5" width="14" height="14" rx="3" fill="none" stroke="#00c6ff" stroke-width="2" style="animation-delay:6.815s"/>
+<rect id="cell-52-3" class="cell" x="731" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.797s"/>
+<rect id="cell-52-4" class="cell" x="731" y="59" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.815s"/>
 <rect id="cell-52-5" class="cell" x="731" y="73" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.832s"/>
 <rect id="cell-52-6" class="cell" x="731" y="87" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:6.850s"/>
 </svg>
