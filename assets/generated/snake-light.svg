@@ -318,7 +318,7 @@
 <rect id="cell-42-3" class="cell" x="591" y="45" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.568s"/>
 <rect id="cell-42-4" class="cell" x="591" y="59" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.585s"/>
 <rect id="cell-42-5" class="cell" x="591" y="73" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.603s"/>
-<rect id="cell-42-6" class="cell" x="591" y="87" width="11" height="11" rx="2" fill="#9be9a8" style="animation-delay:5.620s"/>
+<rect id="cell-42-6" class="cell" x="591" y="87" width="11" height="11" rx="2" fill="#30a14e" style="animation-delay:5.620s"/>
 <rect class="bite" x="589.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#0969da" stroke-width="2" style="animation-delay:5.620s"/>
 <rect id="cell-43-6" class="cell" x="605" y="87" width="11" height="11" rx="2" fill="#9be9a8" style="animation-delay:5.638s"/>
 <rect class="bite" x="603.5" y="85.5" width="14" height="14" rx="3" fill="none" stroke="#0969da" stroke-width="2" style="animation-delay:5.638s"/>
@@ -326,9 +326,9 @@
 <rect id="cell-43-4" class="cell" x="605" y="59" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.673s"/>
 <rect id="cell-43-3" class="cell" x="605" y="45" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.691s"/>
 <rect id="cell-43-2" class="cell" x="605" y="31" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.708s"/>
-<rect id="cell-43-1" class="cell" x="605" y="17" width="11" height="11" rx="2" fill="#40c463" style="animation-delay:5.726s"/>
+<rect id="cell-43-1" class="cell" x="605" y="17" width="11" height="11" rx="2" fill="#216e39" style="animation-delay:5.726s"/>
 <rect class="bite" x="603.5" y="15.5" width="14" height="14" rx="3" fill="none" stroke="#0969da" stroke-width="2" style="animation-delay:5.726s"/>
-<rect id="cell-43-0" class="cell" x="605" y="3" width="11" height="11" rx="2" fill="#9be9a8" style="animation-delay:5.743s"/>
+<rect id="cell-43-0" class="cell" x="605" y="3" width="11" height="11" rx="2" fill="#40c463" style="animation-delay:5.743s"/>
 <rect class="bite" x="603.5" y="1.5" width="14" height="14" rx="3" fill="none" stroke="#0969da" stroke-width="2" style="animation-delay:5.743s"/>
 <rect id="cell-44-0" class="cell" x="619" y="3" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.761s"/>
 <rect id="cell-44-1" class="cell" x="619" y="17" width="11" height="11" rx="2" fill="#ebedf0" style="animation-delay:5.778s"/>
